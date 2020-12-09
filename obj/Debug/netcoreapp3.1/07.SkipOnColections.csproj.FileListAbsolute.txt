@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\bin\Debug\netcoreapp3.1\07.SkipOnColections.exe
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\bin\Debug\netcoreapp3.1\07.SkipOnColections.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\bin\Debug\netcoreapp3.1\07.SkipOnColections.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\bin\Debug\netcoreapp3.1\07.SkipOnColections.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\bin\Debug\netcoreapp3.1\07.SkipOnColections.dll
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\bin\Debug\netcoreapp3.1\07.SkipOnColections.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\obj\Debug\netcoreapp3.1\07.SkipOnColections.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\obj\Debug\netcoreapp3.1\07.SkipOnColections.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\obj\Debug\netcoreapp3.1\07.SkipOnColections.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\obj\Debug\netcoreapp3.1\07.SkipOnColections.dll
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\obj\Debug\netcoreapp3.1\07.SkipOnColections.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\07.SkipOnColections\obj\Debug\netcoreapp3.1\07.SkipOnColections.genruntimeconfig.cache
